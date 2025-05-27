@@ -1,0 +1,27 @@
+site_name: Biology Educator Website
+nav:
+- Home: index.md
+- Microbiology:
+  - Lectures: microbiology/lectures.md
+  - Lab Prep: microbiology/lab_prep.md
+- Lab Management:
+  - Checklists: lab_management/checklists.md
+  - Tools: lab_management/tools.md
+- Teaching Toolkit:
+  - Printables: teaching_toolkit/printables.md
+  - Course Outlines: teaching_toolkit/course_outlines.md
+- About: about.md
+theme:
+  name: material
+  palette:
+  - scheme: default
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+  - navigation.tabs
+  - navigation.instant
+  - search.highlight
+  - search.suggest
