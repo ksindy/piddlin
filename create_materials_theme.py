@@ -42,7 +42,7 @@ This site provides:
 - 🧪 Lab management tools
 - 🧠 Workflow and planning templates
 
-> Created by Karly Sindy, molecular biologist, educator, and lab manager.
+> Created by Karly Sindy, molecular biologist, educator, lab manager, piddler.
 
 !!! note
     This is a living site—more content is added regularly!
