@@ -4,6 +4,7 @@ nav:
 - Microbiology:
   - Lectures: microbiology/lectures.md
   - Lab Prep: microbiology/lab_prep.md
+  - Activities: microbiology/activities/tax_phy_activity.md
 - Lab Management:
   - Checklists: lab_management/checklists.md
   - Tools: lab_management/tools.md
