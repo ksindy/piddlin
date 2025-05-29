@@ -8,5 +8,5 @@ Welcome to "My Activity". In this section, you will have a look at the activity 
 
 ## Download Files
 
-- [Download `my-activity.pdf`](/microbiology/files/Microorganism Taxonomy Phylogeny Activity - Sizes Flashcards.pdfs)
+- [Download `my-activity.pdf`](/microbiology/files/Microorganism Taxonomy Phylogeny Activity - Sizes Flashcards.pdf)
 - [Download `my-activity-cutouts.pdf`](/microbiology/files/Microorganism Taxonomy Phylogeny Activity.pdf)
