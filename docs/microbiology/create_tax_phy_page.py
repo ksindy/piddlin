@@ -12,30 +12,31 @@ response = client.chat.completions.create(
         {
             "role": "system",
             "content": (
-                "You are a developer assistant working on a science education site using MkDocs with the Material theme. "
-                "You write and modify Markdown content and YAML config directly."
+                "You are a developer assistant with write access to a MkDocs project using the Material theme. "
+                "Make all edits directly to existing files or create new ones as needed."
             )
         },
         {
             "role": "user",
-            "content": """Please make the following changes to my MkDocs site:
+            "content": """Integrate the following changes into my MkDocs site:
 
-1. Create or update `docs/activities/my-activity.md` with:
-   - A clean, professional introduction to "My Activity"
-   - An embedded PDF viewer for `files/my-activity.pdf`
-   - Download links for both `my-activity.pdf` and `my-activity-cutouts.pdf`
+1. Create a new file at `docs/activities/my-activity.md` with:
+   - A professional introduction to "My Activity"
+   - An embedded PDF viewer for `microbiology/files/my-activity.pdf`
+   - Download links for both `my-activity.pdf` and `my-activity-cutouts.pdf` stored in `docs/microbiology/files/`
 
-2. Edit `mkdocs.yml`:
-   - Under `nav`, add a new section called "Activities" with a link to this page
+2. Update `mkdocs.yml`:
+   - Add this new page under a section called "Activities"
 
-3. Enhance the site visually:
+3. Apply a sleek professional look:
    - Use the Material for MkDocs theme
-   - Set a custom primary and accent color
-   - Enable navigation tabs and instant loading
-   - Add a Google Font for a modern look
+   - Set the primary color to indigo and accent to teal
+   - Use the Roboto font
+   - Enable `navigation.tabs` and `navigation.instant`
 
-Return the updated `my-activity.md` content and the full updated `mkdocs.yml`.
-Assume the files are already stored in `docs/files/`.
+Make all changes directly and return the full contents of the modified files:
+- `docs/activities/my-activity.md`
+- `mkdocs.yml`
 """
         }
     ]
