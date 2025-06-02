@@ -1,12 +1,27 @@
+# My Activity
+
+Welcome to this hands-on biology activity! This resource was designed to help students explore concepts through interactive learning. Everything you need is available below, including a printable version of the activity and optional cutouts for use in class.
+
 ---
-title: Microorganism Taxonomy and Phylogeny Activity
+
+## 📄 View the Activity
+
+<iframe src="../microbiology/files/my-activity.pdf" width="100%" height="600px" style="border: 1px solid #ccc; border-radius: 8px;">
+    Your browser does not support embedded PDFs. Please download the file below.
+</iframe>
+
 ---
 
-# Microorganism Taxonomy and Phylogeny Activity
+## ⬇️ Download Options
 
-Welcome to "My Activity". In this section, you will have a look at the activity details. Please feel free to download the activity files using the links provided below.
+<button onclick="confirmDownload('../microbiology/files/my-activity.pdf')">Download My Activity (PDF)</button>
+<br><br>
+<button onclick="confirmDownload('../microbiology/files/my-activity-cutouts.pdf')">Download Cutouts (PDF)</button>
 
-## Download Files
-
-- [Download `my-activity.pdf`](/microbiology/files/Microorganism Taxonomy Phylogeny Activity - Sizes Flashcards.pdf)
-- [Download `my-activity-cutouts.pdf`](/microbiology/files/Microorganism Taxonomy Phylogeny Activity.pdf)
+<script>
+function confirmDownload(fileUrl) {
+    if (confirm('Do you want to download this file?')) {
+        window.location.href = fileUrl;
+    }
+}
+</script>
