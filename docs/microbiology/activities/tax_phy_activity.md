@@ -14,9 +14,9 @@ Welcome to this hands-on biology activity! This resource was designed to help st
 
 ## ⬇️ Download Options
 
-<button onclick="confirmDownload('../files/my-activity.pdf')">Download My Activity (PDF)</button>
+<button onclick="confirmDownload('../files/Microorganism Taxonomy Phylogeny Activity.pdf')">Download My Activity (PDF)</button>
 <br><br>
-<button onclick="confirmDownload('../files/my-activity-cutouts.pdf')">Download Cutouts (PDF)</button>
+<button onclick="confirmDownload('../files/Microorganism Taxonomy Phylogeny Activity - Sizes Flashcards.pdf')">Download Cutouts (PDF)</button>
 
 <script>
 function confirmDownload(fileUrl) {
