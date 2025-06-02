@@ -6,7 +6,7 @@ Welcome to this hands-on biology activity! This resource was designed to help st
 
 ## 📄 View the Activity
 
-<iframe src="../microbiology/files/my-activity.pdf" width="100%" height="600px" style="border: 1px solid #ccc; border-radius: 8px;">
+<iframe src="../files/my-activity.pdf" width="100%" height="600px" style="border: 1px solid #ccc; border-radius: 8px;">
     Your browser does not support embedded PDFs. Please download the file below.
 </iframe>
 
@@ -14,9 +14,9 @@ Welcome to this hands-on biology activity! This resource was designed to help st
 
 ## ⬇️ Download Options
 
-<button onclick="confirmDownload('../microbiology/files/my-activity.pdf')">Download My Activity (PDF)</button>
+<button onclick="confirmDownload('../files/my-activity.pdf')">Download My Activity (PDF)</button>
 <br><br>
-<button onclick="confirmDownload('../microbiology/files/my-activity-cutouts.pdf')">Download Cutouts (PDF)</button>
+<button onclick="confirmDownload('../files/my-activity-cutouts.pdf')">Download Cutouts (PDF)</button>
 
 <script>
 function confirmDownload(fileUrl) {
