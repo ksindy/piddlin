@@ -6,7 +6,7 @@ Welcome to this hands-on biology activity! This resource was designed to help st
 
 ## 📄 View the Activity
 
-<iframe src="../files/my-activity.pdf" width="100%" height="600px" style="border: 1px solid #ccc; border-radius: 8px;">
+<iframe src="../files/Microorganism Taxonomy Phylogeny Activity.pdf" width="100%" height="600px" style="border: 1px solid #ccc; border-radius: 8px;">
     Your browser does not support embedded PDFs. Please download the file below.
 </iframe>
 
