@@ -2,13 +2,9 @@
 
 ---
 
-**Prepared by Karly Sindy**  
-_Last updated:_ **May 21, 2025**
-
----
 
 <div style="text-align: center; margin-top: 2rem; margin-bottom: 2rem;">
-  <img src="../microbiology/files/grouping-icons.png" alt="Grouping Icons" style="max-width: 80%; height: auto;"/>
+  <img src="../files/grouping-icons.png" alt="Grouping Icons" style="max-width: 80%; height: auto;"/>
 </div>
 
 ---
@@ -22,7 +18,7 @@ Organisms can be grouped in many ways: by **size**, by shared **features**, or b
 - **Taxonomy** — the science of naming, describing, and classifying organisms
 - **Phylogeny** — the study of evolutionary relationships among organisms
 
-<img src="../microbiology/files/tax-phy-img.png" alt="Taxonomy vs Phylogeny" style="display: block; margin: 2rem auto; max-width: 400px;"/>
+<img src="../files/tax-phy-img.png" alt="Taxonomy vs Phylogeny" style="display: block; margin: 2rem auto; max-width: 400px;"/>
 
 ---
 
@@ -30,6 +26,15 @@ Organisms can be grouped in many ways: by **size**, by shared **features**, or b
   Designed by Karly Sindy. Please send any questions or corrections to <a href="mailto:karlysindy@abtech.edu">karlysindy@abtech.edu</a>.
 </div>
 
+---
+
+## 📄 View the Activity
+
+<iframe src="../microbiology/files/my-activity.pdf" width="100%" height="600px" style="border: 1px solid #ccc; border-radius: 8px;">
+    Your browser does not support embedded PDFs. Please download the file below.
+</iframe>
+
+---
 
 ## ⬇️ Download Options
 
